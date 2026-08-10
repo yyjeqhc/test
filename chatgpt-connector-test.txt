@@ -1,0 +1,3 @@
+This file was created by ChatGPT through the GitHub connector.
+
+Purpose: verify end-to-end write access including branch creation, file commit, pull request creation, and merge.
